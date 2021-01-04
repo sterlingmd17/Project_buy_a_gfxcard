@@ -65,8 +65,8 @@ if __name__ == '__main__':
 
 # Work in progress for email notification, not sure if it'll be a thing.
 #email info for sending email notification
-#EMAIL_ADDRESS = os.environ.get('sterlingmd17@gmail.com')
-#EMAIL_PASSWORD = os.environ.get('mxnitsuuebizuwja')
+#EMAIL_ADDRESS = os.environ.get('emailaddress')
+#EMAIL_PASSWORD = os.environ.get('app_password')
 #with smtplib.smtp('smtp.gmail.com', 587) as smtp:
 #    smtp.ehlo()
 #    smtp.starttls()
