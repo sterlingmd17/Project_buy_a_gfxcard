@@ -7,8 +7,8 @@ import os
 
 
 #email info for sending email notification
-#EMAIL_ADDRESS = os.environ.get('sterlingmd17@gmail.com')
-#EMAIL_PASSWORD = os.environ.get('mxnitsuuebizuwja')
+#EMAIL_ADDRESS = os.environ.get('sXXXXXXXXXXXXX')
+#EMAIL_PASSWORD = os.environ.get('passsword')
 #with smtplib.smtp('smtp.gmail.com', 587) as smtp:
 #    smtp.ehlo()
 #    smtp.starttls()
